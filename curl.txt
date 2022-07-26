@@ -1,0 +1,2 @@
+curl -v -H "Content-type:application/json" -d '{"name" : "Aaryan Budhiraja"}' -X POST http://localhost:8080/task
+curl -v -X GET http://localhost:8080/task
